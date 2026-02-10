@@ -1,0 +1,96 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    color: #333;
+}
+
+.main-card {
+    background: #ffffff;
+    width: 420px;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.25);
+    text-align: center;
+}
+
+h1 {
+    color: #1b4f72;
+}
+
+.subtitle {
+    font-size: 14px;
+    margin-bottom: 15px;
+}
+
+.note-box {
+    background: #eef6fb;
+    border-left: 4px solid #3498db;
+    padding: 10px;
+    font-size: 13px;
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+input {
+    width: 95%;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+button {
+    margin-top: 15px;
+    padding: 10px 20px;
+    background: #1b4f72;
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 6px;
+    font-size: 15px;
+}
+
+button:hover {
+    background: #154360;
+}
+
+.result-box {
+    margin-top: 20px;
+    padding: 15px;
+    border-radius: 6px;
+    font-size: 14px;
+    text-align: left;
+}
+
+.safe {
+    background: #d4edda;
+    color: #155724;
+}
+
+.caution {
+    background: #fff3cd;
+    color: #856404;
+}
+
+.warning {
+    background: #f8d7da;
+    color: #721c24;
+}
+
+.footer-notes {
+    margin-top: 20px;
+    text-align: left;
+}
+
+.footer-notes h3 {
+    font-size: 15px;
+    color: #1b4f72;
+}
+
+.footer-notes ul {
+    font-size: 13px;
+}
