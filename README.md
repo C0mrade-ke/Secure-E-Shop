@@ -1,10 +1,12 @@
 #  Secure E-Shop Checker
 
+<img src="https://i.imgur.com/tkaCRfb.jpeg alt=e-commerce" width="600">
+
 **Secure E-Shop Checker Lite** is a simple web-based tool that helps users and small e-commerce businesses identify potentially insecure websites. It focuses on basic **web security indicators** and educates users on safe online shopping practices.
 
 ---
 
-## 🔹 Problem
+## 🔹 Challenges
 
 Many e-commerce websites are **not fully secure**, exposing users to risks such as:
 
@@ -69,6 +71,12 @@ Secure E-Shop Checker Lite allows users to:
 2. Open `index.html` in your browser.  
 3. Enter a website URL and click **Check Website Safety**.  
 4. Read the results and follow the recommendations.  
+
+---
+## AT THE END OF THE DAY 
+
+<img src="https://media1.tenor.com/m/ZFNfqWaRBKAAAAAC/party-dance.gif alt=dance gif" width="600">
+
 
 
 ---
