@@ -44,9 +44,8 @@ Secure E-Shop Checker Lite allows users to:
 - HTTPS / SSL check (basic encryption detection)  
 - URL structure validation (detect suspicious characters)  
 - Awareness of sensitive e-commerce pages  
-- Security tips and recommendations in plain language  
-- Color-coded results for clear visualization  
-- Designed for **freshman-friendly use and classroom demonstrations**
+- Security tips and recommendations in plain language   
+-  Has **FRIENDLY UI**
 
 ---
 
